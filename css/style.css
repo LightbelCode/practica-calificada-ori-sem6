@@ -1,0 +1,25 @@
+header {
+    background: rgb(176, 226, 122);
+    color: #fff;
+    padding: 20px;
+  }
+
+  .portafolio {
+    background: rgb(207, 245, 243);
+    padding: 20px;
+    text-align: center;
+    color: #64c0b8;
+  }
+
+  footer {
+    background: black;
+    color: white;
+    padding: 20px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+  }
+
+  .main-section {
+    margin-bottom: 80px;
+  }
